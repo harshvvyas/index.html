@@ -1,0 +1,6 @@
+print(4+5)
+print(8-9)
+print(7*9)
+print(88/7)
+print(58//9)
+print(17%9)
